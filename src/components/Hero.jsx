@@ -43,7 +43,7 @@ function Hero() {
           fontWeight: "bold",
         }}
       >
-        Generate Now
+        Generate Product Description
       </button>
     </section>
   );
