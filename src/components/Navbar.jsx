@@ -23,7 +23,7 @@ function Navbar() {
           fontSize: "20px",
         }}
       >
-        AI Writer
+        AI Product Writer
       </h2>
 
       {/* Navigation Links */}
